@@ -13,4 +13,4 @@ python picture_s.py
 
 The program will create a /pix folder where it is being run when it runs where you can view your output.
 
-DISCLAIMER: this program is in development and installation dependencies take a lot of memory. please report issues with the understanding your system may not be equipped with proper hardware.
+DISCLAIMER: this program is in development and installation dependencies take a lot of memory. please report issues with the understanding your system may not be equipped with proper hardware and gpus and shit.

@@ -1,5 +1,5 @@
 # picture_s
-picture_s is an ai software that allows prompts as input or a photo to modify and outputs a new photo.
+picture_s is an ai software in python that allows prompts as input or a photo to modify and outputs a new photo.
 
 to modify a photo, place it in a folder and give the input the file destination when it asks.
 
